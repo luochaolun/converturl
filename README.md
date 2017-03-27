@@ -6,7 +6,7 @@
 
 安装方法
 ```sh
-go get github.com/luochaolun/converturl
+go get -u github.com/luochaolun/converturl
 ```
 
 使用例子：
